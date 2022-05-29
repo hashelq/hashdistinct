@@ -11,7 +11,7 @@ It is simple as ls. Just look at the usage:
 
 ```
 Distinct Hash 0.4.0
-Starfear https://github.com/starfear
+Hashelq https://github.com/hashelq
 Utility for deletion duplications with same hash.
 
 USAGE:
